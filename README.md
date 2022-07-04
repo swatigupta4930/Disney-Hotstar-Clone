@@ -1,0 +1,2 @@
+# Disney-Hotstar-Clone
+Disney+ Hotstar Clone with pure HTML, CSS, JS. clone is very similar to the original disney plus website. It is only one page(homepage) website. It has navbar and search box with cool click effect same as disney+ and it also has a slider or carousel with infinity or endless effect. Which was very hard for me to make at first. And after that we also have movie cards with awesome card hover effect &amp; much more.
